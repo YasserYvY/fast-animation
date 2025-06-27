@@ -1,0 +1,7 @@
+id=fast-animation
+name=Fast Animation
+description=Toggle animation speed between 0.5 (on) and 1.0 (off) for smoother or fancier transitions
+author=YasserYvY 
+version=v1.0.0
+versionCode=1
+repository=https://github.com/YasserYvY/fast-animation
